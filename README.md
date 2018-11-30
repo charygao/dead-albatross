@@ -1,2 +1,7 @@
 # dead-albatross
-Java and Javascript Education. This will probably be wrong and terribly boring.
+
+Tenable.IO Nessus API example works to help other people who are learning.
+
+The intention is to place guided information and examples here.
+
+Ref: https://cloud.tenable.com/api#/resources/
