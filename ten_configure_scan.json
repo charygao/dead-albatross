@@ -1,0 +1,17 @@
+{
+    "uuid": "abcdef",
+    "settings": {
+	    "name": "Renamed Scan",
+	    "description": "This scan was configured using JSON and the tenable.IO API.",
+	    "enabled": "true",
+	    "launch": "ON_DEMAND",
+	    "starttime": "1998-01-01 10:15",
+	    "timezone": "Australia/Sydney",
+	    "rrules": "FREQ=ONETIME",
+	    "emails": "elvis@presely.moc,aliens@mars.moc",
+	    "folder_id": 9,
+	    "policy_id": "210",
+	    "scanner_id": "abcdef",
+	    "text_targets": "127.0.0.1,127.0.1.1"
+	}
+}
