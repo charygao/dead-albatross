@@ -1,0 +1,13 @@
+{
+    "uuid": "abababab-abab-abab-abab-abababdcdcdcdcdcdcdcdcdcdcdc",
+    "settings": {
+	    "name": "NewScan_00",
+	    "description": "This is a scan created from JSON and the tenable.IO API.",
+	    "enabled": "false",
+	    "launch": "ON_DEMAND",
+	    "folder_id": 9,
+	    "policy_id": "123",
+	    "scanner_id": "abababab-abab-cdcd-cdcd-cdabcdabcdbc",
+	    "text_targets": "127.0.0.1,127.0.1.1"
+	}
+}
