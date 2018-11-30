@@ -11,6 +11,8 @@ Requirements:
 * A Nessus account with Tenable.IO
 * API Access Key and Secret Key
 
+I use either 'jq' (https://brew.sh) on MacOS or 'jparse' on linux for parsing JSON.
+
 Ref: https://cloud.tenable.com/api#/resources/
 
 You're welcome,
