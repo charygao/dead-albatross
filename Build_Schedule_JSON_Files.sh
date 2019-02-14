@@ -24,8 +24,8 @@ for i in "${DateArray[@]}"
 		Month=$(echo ${i} | sed 's/,//g' | cut -c5-6 );
 		Year=$(echo ${i} | sed 's/,//g' | cut -c1-4 );
 		Hour="11"
-		Minute="12"	
-		ScanTime="${Day}-${Month}-${Year} ${Hour}:${Minute}"
+		Minute="12"
+		ScanTime="${Year}${Month}${Day}${Hour}${Minute}"
 
 		# Copy this into a file per scan, K.I.S.S. Let coders refine this, not admins.
 
