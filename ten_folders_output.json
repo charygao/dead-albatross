@@ -1,0 +1,60 @@
+{
+  "folders": [
+    {
+      "unread_count": 0,
+      "custom": 0,
+      "default_tag": 0,
+      "type": "trash",
+      "name": "Trash",
+      "id": 8
+    },
+    {
+      "unread_count": 0,
+      "custom": 0,
+      "default_tag": 1,
+      "type": "main",
+      "name": "My Scans",
+      "id": 9
+    },
+    {
+      "unread_count": 0,
+      "custom": 1,
+      "default_tag": 0,
+      "type": "custom",
+      "name": "COMPANYNAME_Staff",
+      "id": 152
+    },
+    {
+      "unread_count": 0,
+      "custom": 1,
+      "default_tag": 0,
+      "type": "custom",
+      "name": "COMPANYNAME_AudioVisual",
+      "id": 154
+    },
+    {
+      "unread_count": 0,
+      "custom": 1,
+      "default_tag": 0,
+      "type": "custom",
+      "name": "COMPANYNAME_QoS",
+      "id": 155
+    },
+    {
+      "unread_count": 0,
+      "custom": 1,
+      "default_tag": 0,
+      "type": "custom",
+      "name": "COMPANYNAME_MFDs",
+      "id": 156
+    },
+    {
+      "unread_count": 0,
+      "custom": 1,
+      "default_tag": 0,
+      "type": "custom",
+      "name": "COMPANYNAME_Assessment",
+      "id": 158
+    },
+  ]
+}
