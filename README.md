@@ -14,6 +14,7 @@ Requirements:
 I use either 'jq' (https://brew.sh) on MacOS or 'jparse' on linux for parsing JSON.
 
 Ref: https://cloud.tenable.com/api#/resources/
+
 Ref: https://docs.tenable.com/TenableIO.htm
 
 You're welcome,
