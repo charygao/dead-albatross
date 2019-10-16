@@ -8,7 +8,7 @@
 	    "starttime": "1998-01-01 10:15",
 	    "timezone": "Australia/Sydney",
 	    "rrules": "FREQ=ONETIME",
-	    "emails": "elvis@presely.moc,aliens@mars.moc",
+	    "emails": "$User,aliens@mars.moc",
 	    "folder_id": 9,
 	    "policy_id": "210",
 	    "scanner_id": "abcdef",
