@@ -62,7 +62,7 @@ for i in "${DateArray[@]}"
 		echo -e "\t\t\"emails\": \"${Recipients}\"," >> $NewFileName
 		echo -e "\t\t\"folder_id\": ${FolderID}," >> $NewFileName
 		echo -e "\t\t\"policy_id\": \"210\"," >> $NewFileName
-		echo -e "\t\t\"scanner_id\": \"${ScannerID\"," >> $NewFileName
+		echo -e "\t\t\"scanner_id\": \"${ScannerID}\"," >> $NewFileName
 		echo -e "\t\t\"text_targets\": \"127.0.0.1\"" >> $NewFileName
 		echo -e "\t}" >> $NewFileName
 		echo -e "}" >> $NewFileName
