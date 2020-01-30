@@ -6,6 +6,8 @@ The intention is to place guided information and examples here.
 
 I've chosen to use BASH and CURL as the most basic and common tools in light of making this easy for network and system administrators.
 
+I've also added some Powershell scripts for Windows users.
+
 Requirements:
 * Your favourite shell with curl installed
 * A Nessus account with Tenable.IO
