@@ -80,18 +80,10 @@ with open(sf) as ScheduleFile:
 
         # Select Case Network.
         NetworkSwitch = {
-            "trash":"8",
-            "myscans":"9",
-            "staff":"152",
-            "deptsvrs":"153",
-            "audiovisual":"154",
-            "qos":"155",
-            "mfd":"156",
-            "labs":"157",
-            "assessment":"158",
-            "fmsservices":"160",
-            "students":"203",
-            "datacentre":"495"
+            "trash":"000",
+            "myscans":"001",
+            "staff":"002"
+            # Ad Nauseum
         }
         folder_id = NetworkSwitch[Network]
 
