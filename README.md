@@ -20,7 +20,7 @@ I use either 'jq' (https://brew.sh) on MacOS or 'jparse' on linux for parsing JS
 
 Ref: https://developer.tenable.com/reference
 
-Ref: https://docs.tenable.com/TenableIO.htm
+Ref: https://docs.tenable.com/Tenableio.htm
 
 You're welcome,
 
